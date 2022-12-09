@@ -1,0 +1,15 @@
+C:\Users\perna\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0\BasicProgramming.exe
+C:\Users\perna\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0\BasicProgramming.deps.json
+C:\Users\perna\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0\BasicProgramming.runtimeconfig.json
+C:\Users\perna\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0\BasicProgramming.dll
+C:\Users\perna\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0\BasicProgramming.pdb
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.csproj.AssemblyReference.cache
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.AssemblyInfoInputs.cache
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.AssemblyInfo.cs
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.dll
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\refint\BasicProgramming.dll
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.pdb
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\BasicProgramming.genruntimeconfig.cache
+C:\Users\perna\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0\ref\BasicProgramming.dll
